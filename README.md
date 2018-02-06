@@ -14,6 +14,7 @@ It has been used in the [Lithophane 3D printing project](https://github.com/loic
 
 Download and rename depending on your platform:
 * [MacOS](img2icesl-macos?raw=true)
+* [Linux 64bits](img2icesl-linux64?raw=true)
 
 ```
 ./img2icesl -input=myimage.png > myimage.lua
